@@ -8,7 +8,7 @@ script:
 notifications:
   webhooks:
     urls:
-      - https://atlas-webhook-n2.valven.com/api/deployment/KEY
+      - https://atlas-webhook-n2.valven.com/api/deployment/db93fb23-0aaa-4480-9e36-70fe002a23e8
     on_success: always
     on_failure: never
     on_start:   never
